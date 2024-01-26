@@ -6,9 +6,7 @@ Below are categorized lists of links to my most interesting projects.
 ## Blue Iris Integrations
 
 * [UI3](https://github.com/bp2008/ui3) - A powerful, modern HTML5 web interface for [Blue Iris](https://blueirissoftware.com/).  
-* [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives Blue Iris update files and makes configuration backups.  
-* [UI2](https://github.com/bp2008/ui2) - (LEGACY) A custom web interface for Blue Iris Video Security Software. Development ceased in 2017 in favor of UI3.
-* [BlueIrisViewer](https://github.com/bp2008/blueirisviewer) - (LEGACY) A Java application which can be used to view cameras hosted by Blue Iris
+* [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives Blue Iris update files and makes configuration backups.
 
 
 
@@ -43,10 +41,16 @@ Below are categorized lists of links to my most interesting projects.
 * [DahuaSunriseSunset](https://github.com/bp2008/DahuaSunriseSunset) - A Windows Service which changes the profile of dahua cameras between Night and Day at each sunset and sunrise.
 * [OmxPlayerAuto](https://github.com/bp2008/OmxPlayerAuto) - A .net/mono project designed for Raspberry Pi which enables basic remote management of omxplayer instances for the creation of a video wall.  Also tested on Windows to launch "mpv" instances.
 * [Timelapse](https://github.com/bp2008/timelapse) - A web application that organizes, archives, and makes available photos from FTP-capable IP cameras.
-* [CameraProxy](https://github.com/bp2008/cameraproxy) - (LEGACY) A Windows Service which acts as a "smart" proxy for IP network cameras. Uses the .NET framework and parts of the VLC media player libraries.
+
+### Login Bypass / Password Changers
+
 * [DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass) - Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.
 * [HikPasswordHelper](https://github.com/bp2008/HikPasswordHelper) - A tool which exploits a backdoor in Hikvision camera firmwares circa 2014-2016 to help the owner change a forgotten password.
-* [IpCameraSpeedometer](https://github.com/bp2008/IpCameraSpeedometer) - (LEGACY) Approximates the speed of moving objects using an IP camera.
+
+
+
+
+
 
 
 
@@ -155,11 +159,29 @@ Below are categorized lists of links to my most interesting projects.
 
 ## Miscellaneous Utilities
 
-* [HdmiExtender](https://github.com/bp2008/HdmiExtender) - Captures the output of a Lenkeng LKV373 HDMI Extender TX (Sender) device, making the audio and video streams usable by 3rd party media players.
 * [ImageOrganizer](https://github.com/bp2008/ImageOrganizer) - Organizes a folder full of images by copying or moving them into a date-based directory structure.
-* [JsonDataExtractor](https://github.com/bp2008/JsonDataExtractor) - A Windows Service that can query a web service for JSON data and write parts of the data to text files.
 * [MapStitcher](https://github.com/bp2008/MapStitcher) - A simple program to bulk-download map tiles and stitch them together.
 * [PdfScriptRemover](https://github.com/bp2008/PdfScriptRemover) - Removes JavaScript and embedded files from PDFs, powered by iText 7 for .NET.
-* [pnacl_player](https://github.com/bp2008/pnacl_player) - (obsolete) H.264 video player using Chrome's portable native client (pluginless native code in Chrome).  Still shipped with UI3.
 * [SplitIntoMonthlyFolders](https://github.com/bp2008/SplitIntoMonthlyFolders) - A simple program which moves files into folders named for the date the file was last modified (YYYY_MM).
 * [VideoEncodingAutomation](https://github.com/bp2008/VideoEncodingAutomation) - Automates video encoding using HandbrakeCLI.
+
+
+
+
+
+
+## Discontinued
+
+Although many of the projects in categories above are no longer actively maintained, the following projects are explicitly discontinued but still linked here for reference:
+
+* [BlueIrisViewer](https://github.com/bp2008/blueirisviewer) - A Java application which can be used to view cameras hosted by Blue Iris.  This is quite old and inefficient as it uses jpeg video.
+* [CameraProxy](https://github.com/bp2008/cameraproxy) - A Windows Service which acts as a "smart" proxy for IP network cameras. Uses the .NET framework and parts of the VLC media player libraries.
+* [IpCameraSpeedometer](https://github.com/bp2008/IpCameraSpeedometer) - Approximates the speed of moving objects using an IP camera.  This was never very accurate.
+* [HdmiExtender](https://github.com/bp2008/HdmiExtender) - Captures the output of a Lenkeng LKV373 HDMI Extender TX (Sender) device, making the audio and video streams usable by 3rd party media players.
+* [pnacl_player](https://github.com/bp2008/pnacl_player) - H.264 video player using Chrome's portable native client (pluginless native code in Chrome).  Still shipped with UI3, but not very useful.
+* [UI2](https://github.com/bp2008/ui2) - A custom web interface for Blue Iris Video Security Software. Development ceased in 2017 in favor of UI3.
+
+
+
+
+
