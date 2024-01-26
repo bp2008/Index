@@ -6,7 +6,7 @@ Below are categorized lists of links to my most interesting projects.
 ## Blue Iris Integrations
 
 * [UI3](https://github.com/bp2008/ui3) - A powerful, modern HTML5 web interface for [Blue Iris](https://blueirissoftware.com/).  
-* [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives [Blue Iris](https://blueirissoftware.com/) update files and makes configuration backups.  
+* [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives Blue Iris update files and makes configuration backups.  
 * [UI2](https://github.com/bp2008/ui2) - A custom web interface for Blue Iris Video Security Software. Development ceased in 2017 in favor of UI3.
 
 
@@ -19,6 +19,7 @@ Below are categorized lists of links to my most interesting projects.
 
 * [Amazon-Product-Link-Shortener](https://github.com/bp2008/Amazon-Product-Link-Shortener) - A chrome extension which creates a short and clean link to the current amazon.com product page, for easy sharing.  
 * [AmazonCustomerImageEnlarger](https://github.com/bp2008/AmazonCustomerImageEnlarger) - A Userscript which enlarges the customer image gallery on amazon.com to make it fill most of the browser's viewport.  
+
 
 
 
@@ -73,6 +74,7 @@ Below are categorized lists of links to my most interesting projects.
 
 
 
+
 ## Software Development
 
 * [BPUtil](https://github.com/bp2008/BPUtil) - Utility classes for .net projects.
@@ -81,6 +83,18 @@ Below are categorized lists of links to my most interesting projects.
 * [SmartPing](https://github.com/bp2008/SmartPing) - A slightly improved version of the Ping class from .NET Core, usable in .NET Framework apps.
 * [turbojpegCLI](https://github.com/bp2008/turbojpegCLI) - .NET wrapper for the libjpeg-turbo library.  Not maintained.
 * [x264net](https://github.com/bp2008/x264net) - .NET wrapper for x264, written in C++/CLI and usable from C# and VB.NET.
+
+
+
+
+
+
+
+  
+## SSL/TLS Certificates
+
+* [CertTrustManager](https://github.com/bp2008/CertTrustManager) - A simple Windows program which can hold an embedded SSL/TLS certificate (.cer file) and provides a button to trust or untrust that certificate.  
+* [SSL-Certificate-Maker](https://github.com/bp2008/SSL-Certificate-Maker) - A graphical tool for generating SSL certificates without any prior knowledge.  Can be used as your own private certificate authority.
 
 
 
@@ -101,6 +115,11 @@ Below are categorized lists of links to my most interesting projects.
 * [UPnPTest](https://github.com/bp2008/UPnPTest) - A .NET GUI application for testing UPnP and NAT-PMP.
 
 
+
+
+
+
+
 ## Windows Services
 
 * [NetworkSpeedTest](https://github.com/bp2008/NetworkSpeedTest) - A web-based speed test application suitable for LAN or internet speed tests.
@@ -110,11 +129,6 @@ Below are categorized lists of links to my most interesting projects.
 
 
 
-  
-## Windows Misc Utilities
-
-* [CertTrustManager](https://github.com/bp2008/CertTrustManager) - A simple Windows program which can hold an embedded SSL/TLS certificate (.cer file) and provides a button to trust or untrust that certificate.  
-* [SSL-Certificate-Maker](https://github.com/bp2008/SSL-Certificate-Maker) - A graphical tool for generating SSL certificates without any prior knowledge.  Can be used as your own private certificate authority.
 
 
 
