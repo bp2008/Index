@@ -14,15 +14,6 @@ Below are categorized lists of links to my most interesting projects.
 
 
 
-## Games
-
-* [boomboom](https://github.com/bp2008/boomboom) - A bomberman clone which I originally released on the Ouya console in 2013. Like the Ouya console, this game was very unpopular.  Runs on Windows using Java.
-
-
-
-
-
-
 
 ## Home Automation, Weather Sensors, etc.
 
@@ -101,10 +92,10 @@ Below are categorized lists of links to my most interesting projects.
 
 * [BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
 * [EnhancePointerPrecisionFixer](https://github.com/bp2008/EnhancePointerPrecisionFixer) - A system tray application for Windows that manages the "Enhance Pointer Precision" setting.
-* [imgurwin](https://github.com/bp2008/imgurwin) - A Windows application that enables easy Imgur.com uploads and screen captures, and automates the creation of various sized thumbnail links to the full image.
+* [ImgurWin](https://github.com/bp2008/imgurwin) - A Windows application that enables easy Imgur.com uploads and screen captures, and automates the creation of various sized thumbnail links to the full image.
 * [IPScanner](https://github.com/bp2008/IPScanner) - IP address scanner written in C#.
 * [MonitorControl](https://github.com/bp2008/MonitorControl) - A small Windows program that allows control of the local monitors via HTTP.
-* [pingtracer](https://github.com/bp2008/pingtracer) - Graphical pinging and traceroute application. Ping Tracer continuously pings each network host between your computer and a given destination, helping identify the source of connectivity problems.
+* [PingTracer](https://github.com/bp2008/pingtracer) - Graphical pinging and traceroute application. Ping Tracer continuously pings each network host between your computer and a given destination, helping identify the source of connectivity problems.
 * [SetNetworkCategory](https://github.com/bp2008/SetNetworkCategory) - Lists the Network adapters on Windows and allows you to see and set the firewall category of each between "Public", "Private", and "Domain" modes.
 * [TaskbarDimmer]() - A windows tray application that dims the taskbar on all your monitors.
 * [UPnPTest](https://github.com/bp2008/UPnPTest) - A .NET GUI application for testing UPnP and NAT-PMP.
@@ -137,6 +128,15 @@ Below are categorized lists of links to my most interesting projects.
 * [Amazon-Product-Link-Shortener](https://github.com/bp2008/Amazon-Product-Link-Shortener) - A chrome extension which creates a short and clean link to the current amazon.com product page, for easy sharing.  
 * [AmazonCustomerImageEnlarger](https://github.com/bp2008/AmazonCustomerImageEnlarger) - A Userscript which enlarges the customer image gallery on amazon.com to make it fill most of the browser's viewport.  
 * [DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass) - Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.
+
+
+
+
+
+
+## Games
+
+* [BoomBoom](https://github.com/bp2008/boomboom) - A bomberman clone which I originally released on the Ouya console in 2013. Like the Ouya console, this game was very unpopular.  Runs on Windows using Java.
 
 
 
