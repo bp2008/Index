@@ -7,18 +7,9 @@ Below are categorized lists of links to my most interesting projects.
 
 * [UI3](https://github.com/bp2008/ui3) - A powerful, modern HTML5 web interface for [Blue Iris](https://blueirissoftware.com/).  
 * [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives Blue Iris update files and makes configuration backups.  
-* [UI2](https://github.com/bp2008/ui2) - A custom web interface for Blue Iris Video Security Software. Development ceased in 2017 in favor of UI3.
+* [UI2](https://github.com/bp2008/ui2) - (LEGACY) A custom web interface for Blue Iris Video Security Software. Development ceased in 2017 in favor of UI3.
+* [BlueIrisViewer](https://github.com/bp2008/blueirisviewer) - (LEGACY) A Java application which can be used to view cameras hosted by Blue Iris
 
-
-
-
-
-
-
-## Browser Extensions / Userscripts
-
-* [Amazon-Product-Link-Shortener](https://github.com/bp2008/Amazon-Product-Link-Shortener) - A chrome extension which creates a short and clean link to the current amazon.com product page, for easy sharing.  
-* [AmazonCustomerImageEnlarger](https://github.com/bp2008/AmazonCustomerImageEnlarger) - A Userscript which enlarges the customer image gallery on amazon.com to make it fill most of the browser's viewport.  
 
 
 
@@ -51,11 +42,11 @@ Below are categorized lists of links to my most interesting projects.
 
 * [DahuaSunriseSunset](https://github.com/bp2008/DahuaSunriseSunset) - A Windows Service which changes the profile of dahua cameras between Night and Day at each sunset and sunrise.
 * [OmxPlayerAuto](https://github.com/bp2008/OmxPlayerAuto) - A .net/mono project designed for Raspberry Pi which enables basic remote management of omxplayer instances for the creation of a video wall.  Also tested on Windows to launch "mpv" instances.
-* [timelapse](https://github.com/bp2008/timelapse) - A web application that organizes, archives, and makes available photos from FTP-capable IP cameras.
-
-
-
-
+* [Timelapse](https://github.com/bp2008/timelapse) - A web application that organizes, archives, and makes available photos from FTP-capable IP cameras.
+* [CameraProxy](https://github.com/bp2008/cameraproxy) - (LEGACY) A Windows Service which acts as a "smart" proxy for IP network cameras. Uses the .NET framework and parts of the VLC media player libraries.
+* [DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass) - Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.
+* [HikPasswordHelper](https://github.com/bp2008/HikPasswordHelper) - A tool which exploits a backdoor in Hikvision camera firmwares circa 2014-2016 to help the owner change a forgotten password.
+* [IpCameraSpeedometer](https://github.com/bp2008/IpCameraSpeedometer) - (LEGACY) Approximates the speed of moving objects using an IP camera.
 
 
 
@@ -135,6 +126,18 @@ Below are categorized lists of links to my most interesting projects.
 
 
 
+# MISCELLANEOUS
+
+## Browser Extensions / Userscripts
+
+* [Amazon-Product-Link-Shortener](https://github.com/bp2008/Amazon-Product-Link-Shortener) - A chrome extension which creates a short and clean link to the current amazon.com product page, for easy sharing.  
+* [AmazonCustomerImageEnlarger](https://github.com/bp2008/AmazonCustomerImageEnlarger) - A Userscript which enlarges the customer image gallery on amazon.com to make it fill most of the browser's viewport.  
+* [DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass) - Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.
+
+
+
+
+
 ## Mini web apps
 
 #### These run in directly in a web browser, not requiring download or install
@@ -148,8 +151,11 @@ Below are categorized lists of links to my most interesting projects.
 
 
 
-## MISCELLANEOUS
 
+
+## Miscellaneous Utilities
+
+* [HdmiExtender](https://github.com/bp2008/HdmiExtender) - Captures the output of a Lenkeng LKV373 HDMI Extender TX (Sender) device, making the audio and video streams usable by 3rd party media players.
 * [ImageOrganizer](https://github.com/bp2008/ImageOrganizer) - Organizes a folder full of images by copying or moving them into a date-based directory structure.
 * [JsonDataExtractor](https://github.com/bp2008/JsonDataExtractor) - A Windows Service that can query a web service for JSON data and write parts of the data to text files.
 * [MapStitcher](https://github.com/bp2008/MapStitcher) - A simple program to bulk-download map tiles and stitch them together.
