@@ -150,6 +150,7 @@ Below are categorized lists of links to my most interesting projects.
 * [CircuitBreakerPlanner](https://github.com/bp2008/CircuitBreakerPlanner) - A simple web application for planning a circuit breaker layout or documenting an existing panel.
 * [GoogleAuthenticatorReader](https://github.com/bp2008/GoogleAuthenticatorReader) - Reads a QR Code containing exported TOTP tokens from Google Authenticator and displays the information in human-readable format.
 * [RdpCalc](https://github.com/bp2008/RdpCalc) - Helps generate a .rdp file that positions the Remote Desktop window where it will fill a monitor on Windows.
+* [WireGuard Peer Config Helper](https://github.com/bp2008/Wireguard-Peer-Helper) - Helps generate WireGuard configuration files for systems that don't support convenient config file generation.
 
 
 
