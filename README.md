@@ -6,7 +6,8 @@ Below are categorized lists of links to my most interesting projects.
 ## Blue Iris Integrations
 
 * [UI3](https://github.com/bp2008/ui3) - A powerful, modern HTML5 web interface for [Blue Iris](https://blueirissoftware.com/).  
-* [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives Blue Iris update files and makes configuration backups.
+* [biupdatehelper](https://github.com/bp2008/biupdatehelper) - A Windows service which archives Blue Iris update files and makes configuration backups.  
+* [MqttToBlueIris](https://github.com/bp2008/MqttToBlueIris) - A Windows service which transfers information from MQTT brokers into text macros in Blue Iris so they can be overlaid on cameras.  
 
 
 
