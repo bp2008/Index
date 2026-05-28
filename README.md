@@ -97,6 +97,7 @@ Below are categorized lists of links to my most interesting projects.
 * [IPScanner](https://github.com/bp2008/IPScanner) - IP address scanner written in C#.
 * [MonitorControl](https://github.com/bp2008/MonitorControl) - A small Windows program that allows control of the local monitors via HTTP.
 * [PingTracer](https://github.com/bp2008/pingtracer) - Graphical pinging and traceroute application. Ping Tracer continuously pings each network host between your computer and a given destination, helping identify the source of connectivity problems.
+* [RdpSigner](https://github.com/bp2008/RdpSigner) - A windows application that makes it easy to sign rdp files to remove the security warning when opening them.
 * [SetNetworkCategory](https://github.com/bp2008/SetNetworkCategory) - Lists the Network adapters on Windows and allows you to see and set the firewall category of each between "Public", "Private", and "Domain" modes.
 * [StaticIp](https://github.com/bp2008/StaticIp) - A Windows program that makes it easy to assign and delete static IPv4 addresses on network interfaces that have DHCP enabled.
 * [TaskbarDimmer]() - A windows tray application that dims the taskbar on all your monitors.
